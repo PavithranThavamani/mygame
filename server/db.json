@@ -1,0 +1,139 @@
+{
+  "cardData": [
+    {
+      "type": "city",
+      "name": "chennai",
+      "id": "1"
+    },
+    {
+      "type": "country",
+      "name": "Australia",
+      "id": "2"
+    },
+    {
+      "type": "city",
+      "name": "London",
+      "id": "3"
+    },
+    {
+      "type": "country",
+      "name": "France",
+      "id": "4"
+    },
+    {
+      "type": "country",
+      "name": "USA",
+      "id": "5"
+    },
+    {
+      "type": "city",
+      "name": "Melbourne",
+      "id": "6"
+    },
+    {
+      "type": "city",
+      "name": "Toronto",
+      "id": "7"
+    },
+    {
+      "type": "country",
+      "name": "Sweden",
+      "id": "8"
+    },
+    {
+      "type": "city",
+      "name": "Berlin",
+      "id": "9"
+    },
+    {
+      "type": "country",
+      "name": "UAE",
+      "id": "10"
+    },
+    {
+      "type": "city",
+      "name": "Paris",
+      "id": "11"
+    },
+    {
+      "type": "country",
+      "name": "UK",
+      "id": "12"
+    },
+    {
+      "type": "city",
+      "name": "Bengaluru",
+      "id": "13"
+    },
+    {
+      "type": "country",
+      "name": "Egypt",
+      "id": "14"
+    },
+    {
+      "type": "city",
+      "name": "Amsterdam",
+      "id": "15"
+    },
+    {
+      "type": "city",
+      "name": "Barcelona",
+      "id": "16"
+    },
+    {
+      "type": "city",
+      "name": "Hyderabd",
+      "id": "17"
+    },
+    {
+      "type": "country",
+      "name": "Italy",
+      "id": "18"
+    },
+    {
+      "type": "country",
+      "name": "Malayasia",
+      "id": "19"
+    },
+    {
+      "type": "country",
+      "name": "Indonesia",
+      "id": "20"
+    },
+    {
+      "type": "city",
+      "name": "Honkong",
+      "id": "21"
+    },
+    {
+      "type": "city",
+      "name": "Zurich",
+      "id": "22"
+    },
+    {
+      "type": "country",
+      "name": "Pakistan",
+      "id": "23"
+    },
+    {
+      "type": "country",
+      "name": "South Africa",
+      "id": "24"
+    },
+    {
+      "type": "city",
+      "name": "Frankfurt",
+      "id": "25"
+    },
+    {
+      "type": "city",
+      "name": "Colombo",
+      "id": "26"
+    },
+    {
+      "type": "country",
+      "name": "Abhu Dhabi",
+      "id": "27"
+    }
+  ]
+}
