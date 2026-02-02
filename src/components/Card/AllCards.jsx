@@ -31,7 +31,7 @@ const AllCards = ({ dataCardCount }) => {
         listStyle: "none",
       }}
     >
-      {array.map((index) => {
+      {array.map((card, index) => {
         return (
           <li key={index} className={classes.card1}>
             {" "}
