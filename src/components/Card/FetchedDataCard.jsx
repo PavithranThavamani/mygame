@@ -1,8 +1,8 @@
 import React from "react";
-import { Card, Avatar, Typography } from "@material-ui/core";
+import { Card, Avatar, Typography } from "@mui/material";
 
-import LocationCityIcon from "@material-ui/icons/LocationCity";
-import FlagIcon from "@material-ui/icons/Flag";
+import LocationCityIcon from "@mui/icons-material/LocationCity";
+import FlagIcon from "@mui/icons-material/Flag";
 
 import useStyle from "./fetcheddatacardstyle";
 

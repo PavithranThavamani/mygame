@@ -6,12 +6,12 @@ import {
   Typography,
   Button,
   rgbToHex,
-} from "@material-ui/core";
-import CheckIcon from "@material-ui/icons/Check";
-import ClearIcon from "@material-ui/icons/Clear";
+} from "@mui/material";
+import CheckIcon from "@mui/icons-material/Check";
+import ClearIcon from "@mui/icons-material/Clear";
 
-import LocationCityIcon from "@material-ui/icons/LocationCity";
-import FlagIcon from "@material-ui/icons/Flag";
+import LocationCityIcon from "@mui/icons-material/LocationCity";
+import FlagIcon from "@mui/icons-material/Flag";
 
 import useStyle from "./displaystyle";
 

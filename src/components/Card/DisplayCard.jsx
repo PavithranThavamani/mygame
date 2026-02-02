@@ -1,5 +1,5 @@
 import React from "react";
-import { Card, CardContent, Avatar } from "@material-ui/core";
+import { Card, CardContent, Avatar } from "@mui/material";
 
 import useStyle from "./displaystyle";
 

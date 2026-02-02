@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 
-import { Avatar, Box, Button, Typography } from "@material-ui/core";
+import { Avatar, Box, Button, Typography } from "@mui/material";
 
 import useStyles from "./mainscreenstyle.js";
 import axios from "axios";
